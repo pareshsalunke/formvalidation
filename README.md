@@ -2,8 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 <h1>Form Validation</h1>
 
-Formik: https://github.com/jaredpalmer/formik
-Yup: https://github.com/jquense/yup
+Formik: https://github.com/jaredpalmer/formik <br/>
+Yup: https://github.com/jquense/yup <br/>
 React Toastify: https://github.com/fkhadra/react-toastify
 
 
